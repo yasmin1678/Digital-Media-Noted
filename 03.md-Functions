@@ -1,18 +1,38 @@
 Workshop 03 - Functions
 
 What is a function?
-
+code blocks that create a function.
 
 
 Give an example (with an explanation) of how you write a function with no arguments
+* ***Two buttons in the Guess game that was used to call to guess up and down.
+examples of realality- for example a chair the propertes of a chair would be its colours and size whereas the functions would 
+be the chair moving up or down and back and forwards.***
+
 
 Show how you would "call" this function.
+
+
 
 What are function "arguments" or "parameters?"
+* ***String=characters
+INT=numbers
+Argument= provinding information to the function
+
+
 
 Give an example (with an explanation) of how you write a function with one argument.
+```swift
+   override func viewDidLoad() {
+        super.viewDidLoad()
+        
+     firstfunction()
+}
+```
 
 Show how you would "call" this function.
+
+
 
 Give an example (with an explanation) of how you write a function with multiple arguments of different types.
 
