@@ -44,15 +44,28 @@ Show how you would "call" this function.
 
 Give an example (with an explanation) of how you write a function with multiple arguments of different types.
 
+```func printGreeting(name: String) {
+	print("Hello, my name is \(name)")		
+}
+```
 Show how you would "call" this function.
 
+```printGreeting(name: "Tim")
+printGreeting(name: "Yazz")
+printGreeting(name: "Layla")
+```
+
 What are return values?
-
-
-
+A value that is returned by a function.
 
 Give an example of a function that returns a value.
 
+```func myFunction() -> String {
+	return "Yasmin Oladapo"
+}
+```
 Show how you would "call" this function
 
+ASK KYLE
 How do you access functions of a class? Give an example.
+ASK KYLE
