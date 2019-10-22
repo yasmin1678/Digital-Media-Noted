@@ -19,7 +19,7 @@ saved photo album
 What is a delegate?
 A delegate is to asign and task to something.
 
-
+1
 
 
 
