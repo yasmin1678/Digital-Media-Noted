@@ -1,4 +1,4 @@
-## Workshop 07 - Camera/Images
+**Workshop 07 - Camera/Images**
 
 * ***What type of View controller allows us to select images from the photo library?***
 
