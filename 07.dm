@@ -14,7 +14,7 @@ Try and explain what happens when we write an extension.
 
 
 What is a delegate?
-***A deegate is to asign and task to something.***
+***A delgate is used to asign a task to something.***
 
 
 
