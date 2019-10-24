@@ -1,7 +1,7 @@
 **Name three digital media pioneers mentioned in this week’s lecture.**
 
 * **Charles Babbage**
-
+x
 * **Ada Lovelace**
 
 * **Margaret Hamilton**
