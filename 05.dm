@@ -49,4 +49,4 @@ view controller to the view controller to present).After give the segue an ident
 
 **Briefly describe how you pass data between two view controllers (you may want to save some snippets of code here)?**
 
-You pass datas between two view controllers by using a segue.
+You pass data between two view controllers by using a segue.
