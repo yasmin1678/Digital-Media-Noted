@@ -13,6 +13,8 @@ All the veiw controllers are "sub classes" of a UIViewController
 
 **What is the life cycle of the view controller?**
 
+Several points in view controller's "life" that we can use to perform tasks.
+
 
 **Name at least two (other than the one given) of the functions we can use in this life cycle.**
   viewDidLoad()
@@ -27,6 +29,7 @@ the new view controller;when this happens there is a 'visual transition' from on
 
 **what is the segue "Identifier"?**
 
+A segue identifier is the l
 
 **How do you setup a segue from a button in your storyboard?**
  
@@ -45,3 +48,5 @@ Between your two storyboards a segue should be setup,( holding ctrl + clicking &
 view controller to the view controller to present).After give the segue an identifier then perform the segue at the relevant point in your application.
 
 **Briefly describe how you pass data between two view controllers (you may want to save some snippets of code here)?**
+
+You pass datas between two view controllers by using a segue.
